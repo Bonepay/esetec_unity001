@@ -1,0 +1,8 @@
+C:\Users\AulaT\Desktop\Daniel DG\Código\esetec_unity001\Introduccion 3\Introduccion 3\bin\Debug\Introduccion 3.exe.config
+C:\Users\AulaT\Desktop\Daniel DG\Código\esetec_unity001\Introduccion 3\Introduccion 3\bin\Debug\Introduccion 3.exe
+C:\Users\AulaT\Desktop\Daniel DG\Código\esetec_unity001\Introduccion 3\Introduccion 3\bin\Debug\Introduccion 3.pdb
+C:\Users\AulaT\Desktop\Daniel DG\Código\esetec_unity001\Introduccion 3\Introduccion 3\obj\Debug\Introduccion 3.csproj.AssemblyReference.cache
+C:\Users\AulaT\Desktop\Daniel DG\Código\esetec_unity001\Introduccion 3\Introduccion 3\obj\Debug\Introduccion 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\AulaT\Desktop\Daniel DG\Código\esetec_unity001\Introduccion 3\Introduccion 3\obj\Debug\Introduccion 3.csproj.CoreCompileInputs.cache
+C:\Users\AulaT\Desktop\Daniel DG\Código\esetec_unity001\Introduccion 3\Introduccion 3\obj\Debug\Introduccion 3.exe
+C:\Users\AulaT\Desktop\Daniel DG\Código\esetec_unity001\Introduccion 3\Introduccion 3\obj\Debug\Introduccion 3.pdb
